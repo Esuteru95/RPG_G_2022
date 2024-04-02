@@ -1,0 +1,8 @@
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\bin\Debug\RPG_G.exe.config
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\bin\Debug\RPG_G.exe
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\bin\Debug\RPG_G.pdb
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\obj\Debug\RPG_G.csproj.AssemblyReference.cache
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\obj\Debug\RPG_G.csproj.SuggestedBindingRedirects.cache
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\obj\Debug\RPG_G.csproj.CoreCompileInputs.cache
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\obj\Debug\RPG_G.exe
+C:\Users\enot9\OneDrive\Рабочий стол\SQL_Final_work2022\RPG_G\RPG_G\obj\Debug\RPG_G.pdb
